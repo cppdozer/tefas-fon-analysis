@@ -1,5 +1,3 @@
-# tefas-fon-analysis
-a Go program acting as a Telegram bot, fetching financial data for investment funds via the TEFAS API. It provides fund prices and performance metrics for different time periods, interacting with users on the Telegram platform using external packages.
 # Telegram Investment Fund Bot
 
 ## Introduction
