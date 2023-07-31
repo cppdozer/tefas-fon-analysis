@@ -27,7 +27,7 @@ This repository contains a Go program for a Telegram bot that fetches financial 
 
 ## Example
 
-/fon GSP <br>
+/fon GSP <br><br>
 <b>GARANTI BIREYSEL SERMAYE PİYASASI YATIRIM FONU</b>
 
 <b>Son 1 aylık getirisi</b> : %1,50 <br>
