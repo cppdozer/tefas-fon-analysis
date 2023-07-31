@@ -30,19 +30,19 @@ This repository contains a Go program for a Telegram bot that fetches financial 
 /fon GSP
 <b>GARANTI BIREYSEL SERMAYE PİYASASI YATIRIM FONU</b>
 
-<b>Son 1 aylık getirisi</b> : %1,50
-<b>Son 3 aylık getirisi</b> : %3,75
-<b>Son 6 aylık getirisi</b> : %4,63
-<b>Son 1 yıllık getirisi</b> : %16,70
+<b>Son 1 aylık getirisi</b> : %1,50 <br>
+<b>Son 3 aylık getirisi</b> : %3,75 <br>
+<b>Son 6 aylık getirisi</b> : %4,63 <br>
+<b>Son 1 yıllık getirisi</b> : %16,70 <br>
 
-<b>Son 1 Haftalık veriler</b>
+<b>Son 1 Haftalık veriler</b> <br>
 
-<b>27/07/2023</b> : 2.579000
-<b>28/07/2023</b> : 2.602000
-<b>29/07/2023</b> : 2.613000
-<b>30/07/2023</b> : 2.613000
-<b>31/07/2023</b> : 2.635000
-<b>01/08/2023</b> : 2.626000
+<b>27/07/2023</b> : 2.579000 <br>
+<b>28/07/2023</b> : 2.602000 <br>
+<b>29/07/2023</b> : 2.613000 <br>
+<b>30/07/2023</b> : 2.613000 <br>
+<b>31/07/2023</b> : 2.635000 <br>
+<b>01/08/2023</b> : 2.626000 <br>
 
 
 
